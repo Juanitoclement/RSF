@@ -7,10 +7,6 @@
 Here's the dashboard for the app
 ![orbit dashboard](./images/tiket-dashboard.png)
 
-For a more in-depth tour, check out this course:
-
-https://courses.reactsecurity.io/courses/react-security-fundamentals
-
 There are two parts to the app in this project: **tiket-app** and **tiket-api**. These are the front end React application and the backend Node API respectively.
 
 ## Install the Dependencies
