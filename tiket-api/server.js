@@ -5,7 +5,7 @@ const cors = require('cors');
 const jwt = require('express-jwt');
 const jwtDecode = require('jwt-decode');
 const mongoose = require('mongoose');
-// const cookieParser = require('cookie-parser');
+const cookieParser = require('cookie-parser');
 
 const dashboardData = require('./data/dashboard');
 const User = require('./data/User');
